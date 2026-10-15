@@ -53,4 +53,8 @@ These are the most common Level 1 help desk tickets in any organization. Masteri
 - [Screenshot 7: Group policy management (Setting account lockout policy)]
 - <img width="859" height="593" alt="image" src="https://github.com/user-attachments/assets/a0556941-efb9-4c85-ac5c-1b3d302c407d" />
 
+- [Screenshot 8: Setting up DHCP Scope on the server]
+- <img width="901" height="693" alt="image" src="https://github.com/user-attachments/assets/7072ea12-a4ca-47ee-bf6c-c54ebcf8badf" />
+
+
 
