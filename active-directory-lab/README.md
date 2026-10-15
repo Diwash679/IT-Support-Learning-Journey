@@ -1,4 +1,4 @@
-
+<img width="859" height="593" alt="image" src="https://github.com/user-attachments/assets/75a38d8e-c307-4216-9587-17236ff0ad03" />
 ## Environment
 - Hyper-V on Windows host
 - Server 2025 Domain Controller (DC01)
@@ -50,5 +50,7 @@ These are the most common Level 1 help desk tickets in any organization. Masteri
 - [Screenshot 6: Account Unlock using powershell]
 - <img width="909" height="769" alt="image" src="https://github.com/user-attachments/assets/21c1aaf7-fa9a-4c4d-86b3-a3e38b21b14f" />
 
+-[Screenshot 7: Group policy management (Setting account lockout policy)]
+-<img width="859" height="593" alt="image" src="https://github.com/user-attachments/assets/a0556941-efb9-4c85-ac5c-1b3d302c407d" />
 
 
