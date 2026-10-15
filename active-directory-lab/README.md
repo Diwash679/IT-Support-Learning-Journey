@@ -20,7 +20,7 @@ az802lab.local
 └── PerthOffice
     ├── Users
     ├── Computers
-    └── Groups 
+    └── Groups ``` 
 
 ## Users Accounts Created
 - john.smith (John Smith)
