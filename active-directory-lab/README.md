@@ -1,4 +1,4 @@
-<img width="859" height="593" alt="image" src="https://github.com/user-attachments/assets/75a38d8e-c307-4216-9587-17236ff0ad03" />
+
 ## Environment
 - Hyper-V on Windows host
 - Server 2025 Domain Controller (DC01)
